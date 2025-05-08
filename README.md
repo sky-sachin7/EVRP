@@ -21,13 +21,12 @@ pip install numpy
 
 give input file (like input_1.json)
 
-Output on terminal like this 
+\n Output on terminal like this 
 ![output_1](https://github.com/user-attachments/assets/a32a5857-1f53-4ec1-9054-fb84341b4120)
 
-Graph for the given Input file whose output is show in the terminal.
+\n Graph for the given Input file whose output is show in the terminal.
 
 ![evrp_solution__1](https://github.com/user-attachments/assets/8a23e359-51d3-424b-8639-0ce24995d5bf)
 
-![evrp_solution__1](https://github.com/user-attachments/assets/1f07c59d-1893-474a-b263-cd3c4bd53095)
 
 
